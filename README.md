@@ -1,14 +1,14 @@
-### Game Boards and Pieces 
+## Game Boards and Pieces 
 **Author**: Nicole Lucas 
 
 **Email**: nicoleclucas003@gmail.com
 
-## Overview :pushpin:
+### Overview :pushpin:
 This lab extends the functionality of our previous C++ project by incorporating more advanced features such as file parsing, data validation, and representation of game pieces on a 2D board.
 
 The project focuses on building a program that can interpret and display the layout of a game board (e.g., Tic-Tac-Toe, Gomoku) based on input from formatted text files. This lab emphasizes modular code, error handling, and structured data representation using `struct`s and `vector`s.
 
-## Features :wrench:
+### Features :wrench:
 
 - **Dynamic Board Configuration**: 
   - Reads board dimensions from a file.
